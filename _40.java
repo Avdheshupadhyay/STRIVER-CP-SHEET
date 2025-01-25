@@ -33,4 +33,5 @@ public class _40 {
         
         sc.close();
     }
+
 }
