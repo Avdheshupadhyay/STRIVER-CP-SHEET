@@ -14,6 +14,8 @@ public class _41 {
             }
         }
 
+
+        
         System.out.println("NO");
     }
 }

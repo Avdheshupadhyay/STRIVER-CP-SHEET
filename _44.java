@@ -9,6 +9,9 @@ public class _44 {
             String s = sc.next(); 
             int i = 0, j = n - 1;
             boolean isValid = true;
+
+
+            
  
             while (i <= j) {
                 char x = s.charAt(i);

@@ -28,6 +28,10 @@ public class _44 {
                 }
             }
 
+
+
+
+            
             System.out.println(isValid ? "YES" : "NO");
         }
         sc.close();

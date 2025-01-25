@@ -15,6 +15,8 @@ public class _45 {
             int n1 = p.length(), n2 = h.length();
             boolean flag = false;
 
+            
+
             for (int i = 0; i <= n2 - n1; i++) {
                 String sub = h.substring(i, i + n1);
                 char[] subArray = sub.toCharArray();

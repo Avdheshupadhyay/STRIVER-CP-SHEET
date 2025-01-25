@@ -22,6 +22,8 @@ public class _42 {
             System.out.println(-1);
         }
 
+
+        
         sc.close();
     }
 }

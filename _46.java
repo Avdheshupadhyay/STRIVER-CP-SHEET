@@ -16,6 +16,9 @@ public class _46 {
         int mid = (min1 + min2) / 2;
 
         int hrs = mid / 60;
+
+
+        
         int mins = mid % 60;
 
         if (hrs > 9 && mins > 9) {
